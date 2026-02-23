@@ -61,7 +61,7 @@ Production logistics management platform.
 - ⚡ Optimized REST API (FastAPI)
 - 🗄 Structured PostgreSQL schema
 - 🐳 Docker-based deployment
-- 🌍 VPS production (Ubuntu 22.04 + Nginx)
+- 🌍 VPS production (Linux + Nginx)
 
 ### 🧩 Architecture
 
@@ -120,7 +120,7 @@ Focused on reliability & financial accuracy.
 # 📬 Connect With Me
 
 <p align="center">
-  <a href="mailto:pirnazarmuradow@gmail.com">
+  <a href="mailto:muradovpirnazar@gmail.com">
     <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://t.me/Bkeaton2271">
