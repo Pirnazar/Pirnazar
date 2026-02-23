@@ -28,23 +28,67 @@ I build **real systems for real business**, focusing on performance, scalability
 ## Backend Core
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
 ![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql)
+
+Used for:
+- REST APIs
+- Microservices
+- Financial tools
+- Async systems
+- Admin panels
+
+---
 
 ## Frontend
 ![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
 
+- Responsive dashboards
+- Admin interfaces
+- Data visualization panels
+
+---
+
+## 📱 Mobile / JVM
+![Kotlin](https://img.shields.io/badge/Kotlin-111111?style=for-the-badge&logo=kotlin)
+
+- Android development
+- JVM ecosystem readiness
+- Cross-platform business logic potential
+
+---
 ## DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu_22.04-111111?style=for-the-badge&logo=ubuntu)
 ![Nginx](https://img.shields.io/badge/Nginx-111111?style=for-the-badge&logo=nginx)
 
+- Dockerized services
+- Reverse proxy configuration
+- VPS deployment
+- Production monitoring mindset
+
+---
+
 ## Automation & Bots
 ![Telegram](https://img.shields.io/badge/Telegram_Bots-111111?style=for-the-badge&logo=telegram)
 ![Selenium](https://img.shields.io/badge/Selenium-111111?style=for-the-badge&logo=selenium)
 
+- aiogram async bots
+- Financial statistics bots
+- Crypto alerts
+- Order automation systems
+- Persistent browser sessions
+
+---
+
 ## Crypto & Trading
 ![Blockchain](https://img.shields.io/badge/Crypto_Infrastructure-111111?style=for-the-badge&logo=bitcoin)
 ![API](https://img.shields.io/badge/Exchange_APIs-111111?style=for-the-badge)
+- Exchange integrations
+- USDT/CNY monitoring
+- Profit analytics
+- Automated scraping pipelines
+- Secure authentication flows
 
 ---
 
@@ -61,7 +105,7 @@ Production logistics management platform.
 - ⚡ Optimized REST API (FastAPI)
 - 🗄 Structured PostgreSQL schema
 - 🐳 Docker-based deployment
-- 🌍 VPS production (Linux + Nginx)
+- 🌍 VPS production (Ubuntu 22.04 + Nginx)
 
 ### 🧩 Architecture
 
@@ -120,7 +164,7 @@ Focused on reliability & financial accuracy.
 # 📬 Connect With Me
 
 <p align="center">
-  <a href="mailto:muradovpirnazar@gmail.com">
+  <a href="mailto:pirnazarmuradow@gmail.com">
     <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://t.me/Bkeaton2271">
